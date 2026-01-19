@@ -96,7 +96,9 @@ Si bien los resultados no implican causalidad, proporcionan evidencia descriptiv
 
 ## 5. Anexos
 
-(Gráficas y material complementario)
+[Base de datos](raw.csv)
+
+[Base de datos (modificada/final)](main.xlsx)
 
 ---
 
