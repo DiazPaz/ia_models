@@ -72,16 +72,16 @@ Variables como el peso corporal o el índice de masa corporal resultan menos id�
 
 Para el análisis gráfico se seleccionó como subpoblación al **género femenino**, con el objetivo de reducir la variabilidad asociada al sexo y facilitar una interpretación más focalizada de los resultados.
 
-**Figura 1.** Comparación entre la cantidad total de pacientes femeninas en cada nivel de obesidad y aquellas con antecedentes familiares de sobrepeso.  
+**[Figura 1.](figura1.png)** Comparación entre la cantidad total de pacientes femeninas en cada nivel de obesidad y aquellas con antecedentes familiares de sobrepeso.  
 Se observa que, conforme aumenta el nivel de obesidad, también se incrementa el número de individuos con historial familiar de sobrepeso, particularmente en obesidad tipo I y tipo III, lo que sugiere una posible asociación genética y ambiental.
 
-**Figura 2.** Promedios de peso corporal y estatura por nivel de obesidad.  
+**[Figura 2.](figura2.png)** Promedios de peso corporal y estatura por nivel de obesidad.  
 Se identifica un incremento progresivo del peso promedio a medida que aumentan los niveles de obesidad, mientras que la estatura se mantiene relativamente constante, indicando que el peso es el principal factor diferenciador.
 
-**Figura 3.** Comparación entre cantidad de pacientes y consumo promedio de vegetales.  
+**[Figura 3.](figura3.png)** Comparación entre cantidad de pacientes y consumo promedio de vegetales.  
 No se observa una relación estrictamente inversa entre consumo de vegetales y nivel de obesidad, lo que sugiere que este hábito no actúa de manera aislada y probablemente interactúa con otros factores.
 
-**Figura 4.** Comparación entre cantidad de pacientes y consumo elevado de calorías.  
+**[Figura 4.](figura4.png)** Comparación entre cantidad de pacientes y consumo elevado de calorías.  
 La mayor concentración de pacientes se presenta en obesidad tipo III, coincidiendo con el mayor número de individuos que reportan consumir muchas calorías, lo que sugiere una posible asociación entre hábitos alimenticios hipercalóricos y mayores niveles de obesidad.
 
 ---
