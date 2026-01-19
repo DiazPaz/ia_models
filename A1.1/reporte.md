@@ -1,6 +1,3 @@
----
----
-
 # Universidad de Monterrey  
 ## Inteligencia Artificial 1  
 **Profesor:** Antonio Martínez Torteya  
