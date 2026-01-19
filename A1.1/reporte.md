@@ -1,7 +1,4 @@
 ---
-layout: default
-title: A1.1 Aprendizaje estadístico-automático
----
 
 # Universidad de Monterrey  
 ## Inteligencia Artificial 1  
