@@ -1,4 +1,5 @@
 ---
-# Aprendizaje estadístico-automático
+layout: default
 ---
+# Aprendizaje estadístico-automático
 
