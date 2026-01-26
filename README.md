@@ -7,4 +7,4 @@ Este repositorio público contiene todos los modelos de inteligencia artificial 
 Unidad 1: 
 
   [A1.1](A1.1/reporte.md)<br>
-  [A1.2](A1.2/main.ipynb)<br>
+  [A1.2](A1.2/main.html)<br>
