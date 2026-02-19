@@ -3,7 +3,7 @@
 Este directorio contiene los archivos correspondientes a la actividad **A1.2** realizada para la clase de **Inteligencia Artificial 1**.
 
 ## Contenido del Folder
-* **Código Fuente:** [`main.ipynb`](main.ipynb) con la implementación en Python.
+* **Código Fuente:** [`main.ipynb`](main.ipynb) y [`main.html`](main.html) con la implementación en Python.
 * **Reporte de Análisis:** [`main.md`](main.md) y [`main.pdf`](main.pdf) con la interpretación estadística.
 * **Conjunto de Datos:** [`felicidad_gdp.csv`](felicidad_gdp.csv) y [`felicidad_gdp_complementado.csv`](felicidad_gdp_complementado.csv).
 
