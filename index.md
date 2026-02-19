@@ -6,7 +6,7 @@ Este repositorio público contiene todos los modelos de inteligencia artificial 
 
 __Unidad 1: Regresión__ <br>
 
-- [A1.1 Aprendizaje estadístico-automático](A1.1/reporte.html): Realización de un análisis exploratorio de datos sobre factores asociados a la obesidad en pacientes de Colombia, Perú y México. El estudio integra variables demográficas y hábitos de vida para comprender la estructura general y las relaciones entre variables en el contexto del estado nutricional.<br>
+- [A1.1 Aprendizaje estadístico-automático](A1.1/reporte.md): Realización de un análisis exploratorio de datos sobre factores asociados a la obesidad en pacientes de Colombia, Perú y México. El estudio integra variables demográficas y hábitos de vida para comprender la estructura general y las relaciones entre variables en el contexto del estado nutricional.<br>
 
 - [A1.2 Regresión Lineal](A1.2/main.html): Análisis de la relación entre el nivel de felicidad y diversas variables económicas y sociales mediante modelos de regresión lineal simple y múltiple. Se evalúa el impacto del Producto Interno Bruto (GDP), la esperanza de vida, el desempleo y la escolaridad en el bienestar percibido de los países.<br>
 
