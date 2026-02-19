@@ -8,7 +8,7 @@ Este directorio contiene los archivos correspondientes a la actividad **[Código
 * **Conjunto de Datos:** Archivos `.csv` o fuentes utilizadas para el entrenamiento y validación de los modelos.
 
 ## Descripción General
-El objetivo de esta actividad es [Descripción breve, ej. implementar un modelo de regresión lineal múltiple para analizar el bienestar social] utilizando herramientas de ciencia de datos como **Pandas**, **Scikit-learn** y **Statsmodels**.
+Realización de un análisis exploratorio de datos sobre factores asociados a la obesidad en pacientes de Colombia, Perú y México. El estudio integra variables demográficas y hábitos de vida para comprender la estructura general y las relaciones entre variables en el contexto del estado nutricional.
 
 ---
 **Estudiante:** David Díaz Paz y Puente  
