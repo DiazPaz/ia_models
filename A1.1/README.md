@@ -4,7 +4,7 @@ Este directorio contiene los archivos correspondientes a la actividad **A1.1** r
 
 ## Contenido del Folder
 * [**Reporte de Análisis:**](reporte.md) `reporte.md` con el análisis exploratorio y propuesta de variables.
-* **Conjunto de Datos:** `raw.csv` (datos originales) y `main.xlsx` (base modificada).
+* [**Conjunto de Datos:**](raw.csv) `raw.csv` (datos originales) y `main.xlsx` (base modificada).
 * **Recursos Visuales:** Carpeta de imágenes con los gráficos de distribución y relaciones.
 
 ## Descripción General
