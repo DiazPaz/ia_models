@@ -1,5 +1,4 @@
 # ia_models
----
 
 ## Descripción
 
