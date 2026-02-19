@@ -3,9 +3,9 @@
 Este directorio contiene los archivos correspondientes al **Proyecto Final de la Unidad 1** de **Inteligencia Artificial 1**.
 
 ## Contenido del Folder
-* [**Código Fuente:**](main.html) `main.ipynb` con el flujo completo de ciencia de datos.
-* [**Reporte de Análisis:**](main.pdf) `main.pdf` que documenta todo el proyecto socioeconómico.
-* [**Conjunto de Datos:**](base_pobreza.csv) `base_pobreza.csv` (datos ENIGH 2024) y `diccionario_datos.csv`.
+* **Código Fuente:** [`main.ipynb`](main.ipynb) y [`main.ipynb`](main.html) con el flujo completo de ciencia de datos.
+* **Reporte de Análisis:** [`main.pdf`](main.pdf) que documenta todo el proyecto socioeconómico.
+* **Conjunto de Datos:**`[base_pobreza.csv`](base_pobreza.csv)  (datos ENIGH 2024) y [`diccionario_datos.csv`](diccionario_datos.csv) .
 * [**Catalogos:**](https://github.com/DiazPaz/ia_models/tree/main/P_P1/catalogos) Definiciones detalladas de las variables de vivienda y servicios.
 
 ## Descripción General
