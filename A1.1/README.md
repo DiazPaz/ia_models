@@ -1,14 +1,14 @@
-# [Nombre de la Actividad o Proyecto]
+# A1.1 Aprendizaje estadístico-automático
 
-Este directorio contiene los archivos correspondientes a la actividad **[Código, ej. A1.2]** realizada para la clase de **Inteligencia Artificial 1** impartida por el profesor **Antonio Martínez Torteya**.
+Este directorio contiene los archivos correspondientes a la actividad **A1.1** realizada para la clase de **Inteligencia Artificial 1**.
 
 ## Contenido del Folder
-* **Código Fuente:** Archivo `.ipynb` o `.py` con la implementación del modelo.
-* **Reporte de Análisis:** Documento `.md` o `.pdf` que detalla la metodología, resultados y conclusiones.
-* **Conjunto de Datos:** Archivos `.csv` o fuentes utilizadas para el entrenamiento y validación de los modelos.
+* **Reporte de Análisis:** `reporte.md` con el análisis exploratorio y propuesta de variables.
+* **Conjunto de Datos:** `raw.csv` (datos originales) y `main.xlsx` (base modificada).
+* **Recursos Visuales:** Carpeta de imágenes con los gráficos de distribución y relaciones.
 
 ## Descripción General
-Realización de un análisis exploratorio de datos sobre factores asociados a la obesidad en pacientes de Colombia, Perú y México. El estudio integra variables demográficas y hábitos de vida para comprender la estructura general y las relaciones entre variables en el contexto del estado nutricional.
+El objetivo de esta actividad es realizar un análisis exploratorio de datos (EDA) sobre factores asociados a la obesidad en pacientes de Colombia, Perú y México. Se identifican patrones entre el nivel de obesidad, hábitos de vida y antecedentes familiares, además de proponer la inclusión de actividad física como variable explicativa.
 
 ---
 **Estudiante:** David Díaz Paz y Puente  
