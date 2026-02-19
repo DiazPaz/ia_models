@@ -6,9 +6,7 @@ Este repositorio público contiene todos los modelos de inteligencia artificial 
 
 __Unidad 1: Regresión__
 
-- [A1.1 Aprendizaje estadístico-automático](A1.1/reporte.md)
-- [A1.2 Regresión Lineal](A1.2/main.md): Análisis de la relación entre el nivel de felicidad y diversas variables económicas y sociales mediante modelos de regresión lineal simple y múltiple. Se evalúa el impacto del Producto Interno Bruto (GDP), la esperanza de vida, el desempleo y la escolaridad en el bienestar percibido de los países.
-
-- [A1.3 Solución de problemas y selección de características](A1.3/main.md): Construcción de un modelo de regresión lineal múltiple para predecir la calificación final de estudiantes de secundaria. El proyecto abarca la limpieza de datos reales, normalización, codificación de variables categóricas y la selección de características relevantes mediante regularización Lasso.
-
-- [P1 Proyecto Final - Unidad 1](P_P1/main.ipynb): Desarrollo de modelos de regresión (OLS y polinomial con Ridge) para estimar el ingreso trimestral per cápita en Nuevo León, México. El análisis utiliza características de la vivienda provenientes de la ENIGH 2024 para identificar factores relacionados con la vulnerabilidad económica frente a las líneas de pobreza del CONEVAL.
+- [A1.1 Aprendizaje estadístico-automático](A1.1/README.md)
+- [A1.2 Regresión Lineal](A1.2/README.md)
+- [A1.3 Solución de problemas y selección de características](A1.3/README.md)
+- [P1 Proyecto Final - Unidad 1](P_P1/README.ipynb)
