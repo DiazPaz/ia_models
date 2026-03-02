@@ -25,7 +25,7 @@ El objetivo principal es entrenar y evaluar un modelo de **Regresión Logística
 
 ## Metodología y Técnicas Aplicadas
 
-El desarrollo del modelo en [`main.ipynb`](main.ipynb) sigue un flujo de trabajo estructurado de Machine Learning:
+El desarrollo del modelo en [`main.ipynb`](main.ipynb) / [`main.html`](main.html) sigue un flujo de trabajo estructurado de Machine Learning:
 
 1. **Preparación de Datos:** * División del dataset en conjuntos de entrenamiento (80%) y prueba (20%) mediante muestreo estratificado (`stratify=y`) para mantener el balance original de las clases.
 2. **Entrenamiento y Validación Cruzada:**
