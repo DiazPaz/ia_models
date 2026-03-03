@@ -6,7 +6,7 @@ Este repositorio público contiene todos los modelos de inteligencia artificial 
 
 __Unidad 1: Regresión__<br>
 
-- [A1.1 Aprendizaje estadístico-automático](A1.1/main.html)<br>
+- [A1.1 Aprendizaje estadístico-automático](A1.1/reporte.md)<br>
 - [A1.2 Regresión Lineal](A1.2/main.html)<br>
 - [A1.3 Solución de problemas y selección de características](A1.3/main.html)<br>
 - [P1 Proyecto Final - Unidad 1](P_P1/main.html)<br>
