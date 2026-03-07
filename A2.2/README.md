@@ -7,7 +7,7 @@ Esta actividad consiste en resolver un problema de clasificación mediante el de
 ## Base de Datos
 
 * **Origen:** Los datos provienen de la **Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH) 2024**, específicamente de la muestra correspondiente al estado de **Nuevo León**.
-* **Características:** * **Variable de salida:** Se clasifica el estrato socioeconómico en tres categorías: **Bajo**, **Medio** y **Alto** (estas dos últimas resultantes de la fusión de las clases "Medio alto" y "Alto" para simplificar el análisis).
+* **Variable de salida:** Se clasifica el estrato socioeconómico en tres categorías: **Bajo**, **Medio** y **Alto** (estas dos últimas resultantes de la fusión de las clases "Medio alto" y "Alto" para simplificar el análisis).
 * **Variables de entrada:** El conjunto de datos utiliza variables predictoras previamente seleccionadas mediante el método **LASSO**, las cuales se encuentran almacenadas en el archivo `features_lasso.csv`.
 
 ## Índice de Archivos
