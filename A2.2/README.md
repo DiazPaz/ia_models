@@ -21,7 +21,7 @@ El objetivo principal es evaluar el desempeño de estos algoritmos en la clasifi
 
 A continuación, se describen los archivos contenidos en este folder:
 
-1. **[main.ipynb](https://www.google.com/search?q=./main.ipynb):** Jupyter Notebook que contiene el código fuente, el análisis de datos, la implementación de los modelos LDA y Árboles de Decisión, y las métricas de evaluación.
-2. **[main.html](https://www.google.com/search?q=./main.html):** Versión en formato HTML del notebook para una visualización rápida en navegadores.
-3. **[main.pdf](https://www.google.com/search?q=./main.pdf):** Documento PDF con el reporte final de la actividad.
-4. **[features_lasso.csv](https://www.google.com/search?q=./features_lasso.csv):** Archivo CSV que contiene el conjunto de características seleccionadas utilizadas para entrenar los modelos.
+1. **[main.ipynb](main.ipynb):** Jupyter Notebook que contiene el código fuente, el análisis de datos, la implementación de los modelos LDA y Árboles de Decisión, y las métricas de evaluación.
+2. **[main.html](main.html):** Versión en formato HTML del notebook para una visualización rápida en navegadores.
+3. **[main.pdf](main.pdf):** Documento PDF con el reporte final de la actividad.
+4. **[features_lasso.csv](features_lasso.csv):** Archivo CSV que contiene el conjunto de características seleccionadas utilizadas para entrenar los modelos.
