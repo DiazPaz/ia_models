@@ -1,41 +1,27 @@
-# A2.2 LDA y Árboles de Decisión
+# Actividad 2.2: Clasificación con LDA y Árboles de Decisión
 
-Este proyecto consiste en la implementación y evaluación de modelos de aprendizaje automático para la clasificación, utilizando las técnicas de **Análisis de Discriminante Lineal (LDA)** y **Árboles de Decisión**.
+## Descripción General
 
-## Autor
+Esta actividad consiste en el desarrollo y aplicación de modelos de aprendizaje supervisado para tareas de clasificación. En particular, se implementan y comparan dos enfoques distintos:
 
-* **Nombre:** David Díaz Paz Y Puente
+1. **Análisis de Discriminante Lineal (LDA):** Utilizado para encontrar una combinación lineal de características que caractericen o separen dos o más clases de objetos.
+2. **Árboles de Decisión:** Un modelo predictivo que mapea observaciones sobre un artículo a conclusiones sobre el valor objetivo del mismo.
 
-## Estructura de la Carpeta
+El objetivo principal es evaluar el desempeño de estos algoritmos en la clasificación de datos tras un proceso de selección de características.
 
-* `main.ipynb`: Jupyter Notebook que contiene el código fuente, el preprocesamiento de datos, la implementación de los modelos y el análisis de resultados.
-* `main.pdf` / `main.html`: Versiones exportadas del notebook para facilitar su visualización.
-* `features_lasso.csv`: Conjunto de datos con las características seleccionadas previamente (posiblemente mediante LASSO) para alimentar los modelos de esta actividad.
+## Base de Datos
 
-## Descripción del Proyecto
+* **Origen:** Los datos utilizados en esta actividad provienen de un conjunto de datos previamente procesado, donde se han identificado las características más relevantes mediante métodos de regularización como Lasso.
+* **Características:**
+* **Entradas:** El modelo utiliza un conjunto de variables predictoras seleccionadas (almacenadas en `features_lasso.csv`) que representan las dimensiones con mayor poder explicativo para el fenómeno en estudio.
+* **Variable Objetivo:** Una variable categórica que define la clase o etiqueta a la que pertenece cada instancia.
+* **Procesamiento:** Se asume un preprocesamiento previo que incluye limpieza de datos y escalamiento de variables antes de la ejecución de los modelos.
 
-El objetivo principal es comparar el desempeño de un modelo estadístico tradicional como LDA frente a un modelo basado en reglas como los Árboles de Decisión.
+## Índice de Archivos
 
-### Contenido del Notebook:
+A continuación, se describen los archivos contenidos en este folder:
 
-1. **Carga de Datos:** Importación del archivo `features_lasso.csv`.
-2. **Análisis de Discriminante Lineal (LDA):**
-* Reducción de dimensionalidad o clasificación directa.
-* Evaluación mediante métricas de precisión.
-
-
-3. **Árboles de Decisión:**
-* Entrenamiento del clasificador.
-* Visualización de la estructura del árbol.
-
-
-4. **Comparativa:** Análisis de las matrices de confusión y métricas de desempeño (Accuracy, Precision, Recall) para determinar qué modelo se adapta mejor a los datos.
-
-## Requisitos
-
-Para ejecutar el notebook, se requiere un entorno de Python con las siguientes librerías:
-
-* `pandas`
-* `numpy`
-* `scikit-learn`
-* `matplotlib` / `seaborn` (para visualización)
+1. **[main.ipynb](https://www.google.com/search?q=./main.ipynb):** Jupyter Notebook que contiene el código fuente, el análisis de datos, la implementación de los modelos LDA y Árboles de Decisión, y las métricas de evaluación.
+2. **[main.html](https://www.google.com/search?q=./main.html):** Versión en formato HTML del notebook para una visualización rápida en navegadores.
+3. **[main.pdf](https://www.google.com/search?q=./main.pdf):** Documento PDF con el reporte final de la actividad.
+4. **[features_lasso.csv](https://www.google.com/search?q=./features_lasso.csv):** Archivo CSV que contiene el conjunto de características seleccionadas utilizadas para entrenar los modelos.
