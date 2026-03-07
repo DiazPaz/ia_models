@@ -1,27 +1,18 @@
-# Actividad 2.2: Clasificación con LDA y Árboles de Decisión
+# A2.2 LDA y Árboles de Decisión
 
 ## Descripción General
 
-Esta actividad consiste en el desarrollo y aplicación de modelos de aprendizaje supervisado para tareas de clasificación. En particular, se implementan y comparan dos enfoques distintos:
-
-1. **Análisis de Discriminante Lineal (LDA):** Utilizado para encontrar una combinación lineal de características que caractericen o separen dos o más clases de objetos.
-2. **Árboles de Decisión:** Un modelo predictivo que mapea observaciones sobre un artículo a conclusiones sobre el valor objetivo del mismo.
-
-El objetivo principal es evaluar el desempeño de estos algoritmos en la clasificación de datos tras un proceso de selección de características.
+Esta actividad consiste en resolver un problema de clasificación mediante el desarrollo y comparación de dos modelos distintos: **Linear Discriminant Analysis (LDA)** y **Árboles de Decisión**. El objetivo es analizar y determinar cuál de ambos enfoques resulta más adecuado para caracterizar familias en estratos socioeconómicos basándose en las condiciones de su vivienda.
 
 ## Base de Datos
 
-* **Origen:** Los datos utilizados en esta actividad provienen de un conjunto de datos previamente procesado, donde se han identificado las características más relevantes mediante métodos de regularización como Lasso.
-* **Características:**
-** **Entradas:** El modelo utiliza un conjunto de variables predictoras seleccionadas (almacenadas en `features_lasso.csv`) que representan las dimensiones con mayor poder explicativo para el fenómeno en estudio.
-** **Variable Objetivo:** Una variable categórica que define la clase o etiqueta a la que pertenece cada instancia.
-** **Procesamiento:** Se asume un preprocesamiento previo que incluye limpieza de datos y escalamiento de variables antes de la ejecución de los modelos.
+* **Origen:** Los datos provienen de la **Encuesta Nacional de Ingresos y Gastos de los Hogares (ENIGH) 2024**, específicamente de la muestra correspondiente al estado de **Nuevo León**.
+* **Características:** * **Variable de salida:** Se clasifica el estrato socioeconómico en tres categorías: **Bajo**, **Medio** y **Alto** (estas dos últimas resultantes de la fusión de las clases "Medio alto" y "Alto" para simplificar el análisis).
+* **Variables de entrada:** El conjunto de datos utiliza variables predictoras previamente seleccionadas mediante el método **LASSO**, las cuales se encuentran almacenadas en el archivo `features_lasso.csv`.
 
 ## Índice de Archivos
 
-A continuación, se describen los archivos contenidos en este folder:
-
-1. **[main.ipynb](main.ipynb):** Jupyter Notebook que contiene el código fuente, el análisis de datos, la implementación de los modelos LDA y Árboles de Decisión, y las métricas de evaluación.
-2. **[main.html](main.html):** Versión en formato HTML del notebook para una visualización rápida en navegadores.
-3. **[main.pdf](main.pdf):** Documento PDF con el reporte final de la actividad.
-4. **[features_lasso.csv](features_lasso.csv):** Archivo CSV que contiene el conjunto de características seleccionadas utilizadas para entrenar los modelos.
+* [main.ipynb](main.ipynb): Notebook principal con el desarrollo del código, entrenamiento de modelos y visualización de resultados.
+* [main.pdf](main.pdf): Reporte detallado de la actividad en formato PDF que incluye la introducción, metodología y conclusiones.
+* [main.html](main.html): Versión exportada en HTML para visualización rápida del análisis.
+* [features_lasso.csv](features_lasso.csv): Dataset que contiene las características seleccionadas utilizadas para el entrenamiento de los modelos LDA y de árboles de decisión.
