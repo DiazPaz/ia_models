@@ -14,3 +14,4 @@ __Unidad 1: Regresión__<br>
 __Unidad 2: Clasificación__<br>
 
 - [A2.1 Regresión logística y validación cruzada](A2.1/main.html)<br>
+- [A2.2 LDA y árboles de decisión](A2.2/main.html)<br>
