@@ -13,9 +13,9 @@ El objetivo principal es evaluar el desempeño de estos algoritmos en la clasifi
 
 * **Origen:** Los datos utilizados en esta actividad provienen de un conjunto de datos previamente procesado, donde se han identificado las características más relevantes mediante métodos de regularización como Lasso.
 * **Características:**
-* **Entradas:** El modelo utiliza un conjunto de variables predictoras seleccionadas (almacenadas en `features_lasso.csv`) que representan las dimensiones con mayor poder explicativo para el fenómeno en estudio.
-* **Variable Objetivo:** Una variable categórica que define la clase o etiqueta a la que pertenece cada instancia.
-* **Procesamiento:** Se asume un preprocesamiento previo que incluye limpieza de datos y escalamiento de variables antes de la ejecución de los modelos.
+** **Entradas:** El modelo utiliza un conjunto de variables predictoras seleccionadas (almacenadas en `features_lasso.csv`) que representan las dimensiones con mayor poder explicativo para el fenómeno en estudio.
+** **Variable Objetivo:** Una variable categórica que define la clase o etiqueta a la que pertenece cada instancia.
+** **Procesamiento:** Se asume un preprocesamiento previo que incluye limpieza de datos y escalamiento de variables antes de la ejecución de los modelos.
 
 ## Índice de Archivos
 
