@@ -9,7 +9,7 @@ __Unidad 1: Regresión__
 - [A1.3 Solución de problemas y selección de características](A1.3/README.md)
 - [P1 Proyecto Final - Unidad 1](P_P1/README.md)
 
-__Unidad 1: Clasificación__
+__Unidad 2: Clasificación__
 
 - [A2.1 Regresión logística y validación cruzada](A2.1/README.md)
 - [A2.2 LDA y árboles de decisión](A2.2/README.md)
