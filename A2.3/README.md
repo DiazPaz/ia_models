@@ -12,7 +12,7 @@ Esta actividad consiste en analizar el comportamiento y resolver un problema de 
 
 ## Índice de Archivos
 
-  * [main.ipynb](https://www.google.com/search?q=main.ipynb): Notebook principal con el desarrollo del código, optimización de hiperparámetros (mediante `RandomizedSearchCV` y `GridSearchCV`) y evaluación de los modelos implementados.
-  * [main.pdf](https://www.google.com/search?q=main.pdf): Reporte detallado de la actividad en formato PDF que incluye la introducción, metodología, resultados comparativos y conclusiones.
-  * [main.html](https://www.google.com/search?q=main.html): Versión exportada en HTML para visualización rápida del análisis.
-  * [features\_lasso.csv](https://www.google.com/search?q=features_lasso.csv): Dataset que contiene las características seleccionadas utilizadas para el entrenamiento (70%) y prueba (30%) de los modelos.
+  * [main.ipynb](main.ipynb): Notebook principal con el desarrollo del código, optimización de hiperparámetros (mediante `RandomizedSearchCV` y `GridSearchCV`) y evaluación de los modelos implementados.
+  * [main.pdf](main.pdf): Reporte detallado de la actividad en formato PDF que incluye la introducción, metodología, resultados comparativos y conclusiones.
+  * [main.html](main.html): Versión exportada en HTML para visualización rápida del análisis.
+  * [features\_lasso.csv](features_lasso.csv): Dataset que contiene las características seleccionadas utilizadas para el entrenamiento (70%) y prueba (30%) de los modelos.
