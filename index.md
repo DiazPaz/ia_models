@@ -15,3 +15,4 @@ __Unidad 2: Clasificación__<br>
 
 - [A2.1 Regresión logística y validación cruzada](A2.1/README.md)<br>
 - [A2.2 LDA y árboles de decisión](A2.2/README.md)<br>
+- [A2.3 Modelos de ensamble, SVM y Redes Neuronales](A2.3/README.md)<br>
