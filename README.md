@@ -1,5 +1,6 @@
 # ia_models
 
+Autor: David Díaz Paz y Puente
 Este repositorio público contiene todos los modelos de inteligencia artificial desarrollados para la clase IA 1 de la Universidad de Monterrey.
 
 __Unidad 1: Regresión__
