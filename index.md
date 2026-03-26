@@ -1,3 +1,4 @@
+__Autor:__ David Díaz Paz y Puente <br>
 # ia_models
 
 ## Descripción
