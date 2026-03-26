@@ -19,4 +19,4 @@ __Unidad 2: Clasificación__<br>
 - [P2 Proyecto Final - Unidad 2](P_P2/README.md)
 
 <br>
-__Autor:__ David Díaz Paz y Puente <br>
+Autor: David Díaz Paz y Puente <br>
