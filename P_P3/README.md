@@ -25,7 +25,7 @@ Para lograrlo, se implementa una metodología que incluye la reducción de dimen
 
 * [main.html](main.html): Notebook principal que contiene el preprocesamiento de datos, análisis de componentes principales (PCA), implementación de modelos de agrupamiento y visualización de resultados (dendrogramas, diagramas de dispersión y curvas de supervivencia).
 * **[data_bases](data_bases/)**: Carpeta (local) que contiene los archivos comprimidos de expresión, clínica y supervivencia del TCGA.
-* **[results/](results/)**: Carpeta donde se almacenan las gráficas generadas y los archivos de salida del análisis.
+* **[results](results/)**: Carpeta donde se almacenan las gráficas generadas y los archivos de salida del análisis.
 
 ## Metodología Aplicada
 
