@@ -18,5 +18,9 @@ __Unidad 2: Clasificación__<br>
 - [A2.3 Modelos de ensamble, SVM y Redes Neuronales](A2.3/README.md)<br>
 - [P2 Proyecto Final - Unidad 2](P_P2/README.md)
 
+__Unidad 3: Aprendizaje no supervisado__
+
+- [P3 Proyecto Final - Unidad 3](P_P3/README.md)
+
 <br>
 Autor: David Díaz Paz y Puente <br>
