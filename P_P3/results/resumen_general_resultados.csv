@@ -1,0 +1,2 @@
+modelo_seleccionado,numero_clusters,componentes_pca_usados,varianza_pca_conservada,silhouette_kmeans,silhouette_hierarchical,adjusted_rand_index
+Hierarchical clustering,2,18,0.7023867370731642,0.19922461843167147,0.2114863298488156,0.6946766578594014
